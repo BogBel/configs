@@ -1,0 +1,189 @@
+[global_config]
+  enabled_plugins = InactivityWatch, LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
+  focus = system
+  hide_tabbar = True
+  inactive_color_offset = 0.83
+  title_inactive_bg_color = "#ffcc00"
+  title_inactive_fg_color = "#0076c9"
+  title_receive_bg_color = "#8ae234"
+  title_receive_fg_color = "#5c3566"
+  title_transmit_fg_color = "#c17d11"
+[keybindings]
+  close_term = <Primary><Shift>x
+  copy = <Primary><Shift>c
+  go_next = <Primary>Tab
+  group_all = None
+  group_all_toggle = None
+  group_tab = None
+  group_tab_toggle = <Primary><Shift>g
+  line_down = <Shift>Page_Down
+  line_up = <Shift>Page_Up
+  move_tab_left = None
+  move_tab_right = None
+  new_terminator = <Primary>slash
+  new_window = None
+  next_profile = None
+  next_tab = <Primary>Tab
+  page_down = grave
+  page_down_half = <Primary><Shift>Page_Down
+  page_up = grave
+  page_up_half = <Primary><Shift>Page_Up
+  paste = <Primary>v
+  prev_tab = <Primary><Shift>Tab
+  scaled_zoom = None
+  search = <Primary>f
+  split_horiz = <Primary>bracketleft
+  split_vert = <Primary>bracketright
+  toggle_zoom = <Primary>m
+  ungroup_all = None
+  zoom_in = None
+  zoom_out = None
+[layouts]
+  [[default]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_term = a5e7c865-6edb-41d9-9e35-a5c9a3849d69
+      last_active_window = True
+      maximised = True
+      order = 0
+      parent = ""
+      position = 0:24
+      size = 1920, 1056
+      title = bogdan@bogdan-ThinkPad-T560: ~/Downloads/ops
+      type = Window
+    [[[terminal1]]]
+      order = 0
+      parent = child0
+      profile = default
+      type = Terminal
+      uuid = a5e7c865-6edb-41d9-9e35-a5c9a3849d69
+  [[gg]]
+    [[[child0]]]
+      fullscreen = False
+      last_active_window = True
+      maximised = True
+      order = 0
+      parent = ""
+      position = 0:24
+      size = 1920, 1056
+      title = bogdan@bogdan-ThinkPad-T560: ~/Downloads/ops
+      type = Window
+    [[[child1]]]
+      active_page = 0
+      labels = None, None
+      last_active_term = e3daf637-5669-41da-b21f-c1b8cd54268f, e294f41d-070b-48aa-9517-9a1ef4eb0de3
+      order = 0
+      parent = child0
+      type = Notebook
+    [[[child2]]]
+      order = 0
+      parent = child1
+      position = 959
+      ratio = 0.5
+      type = HPaned
+    [[[child3]]]
+      order = 0
+      parent = child2
+      position = 782
+      ratio = 0.741935483871
+      type = VPaned
+    [[[child6]]]
+      order = 1
+      parent = child2
+      position = 527
+      ratio = 0.5
+      type = VPaned
+    [[[child9]]]
+      order = 1
+      parent = child1
+      position = 527
+      ratio = 0.5
+      type = VPaned
+    [[[terminal10]]]
+      directory = /home/bogdan/Downloads/ops
+      order = 0
+      parent = child9
+      profile = default
+      type = Terminal
+      uuid = e294f41d-070b-48aa-9517-9a1ef4eb0de3
+    [[[terminal11]]]
+      directory = /home/bogdan/Other/VPN
+      order = 1
+      parent = child9
+      profile = default
+      type = Terminal
+      uuid = a5e7c865-6edb-41d9-9e35-a5c9a3849d69
+    [[[terminal4]]]
+      directory = /home/bogdan/projects/airborne
+      order = 0
+      parent = child3
+      profile = airborne
+      type = Terminal
+      uuid = e3daf637-5669-41da-b21f-c1b8cd54268f
+    [[[terminal5]]]
+      directory = /home/bogdan/projects
+      order = 1
+      parent = child3
+      profile = default
+      type = Terminal
+      uuid = 2a34e00a-79c2-443e-a839-694a23eb4ba6
+    [[[terminal7]]]
+      directory = /home/bogdan/projects/bowman
+      order = 0
+      parent = child6
+      profile = bowman
+      type = Terminal
+      uuid = 9bba5c23-efc0-4872-9b37-06040a7c51e5
+    [[[terminal8]]]
+      command = ""
+      directory = /home/bogdan/projects/cessna
+      order = 1
+      parent = child6
+      profile = cessna
+      type = Terminal
+      uuid = 86f05fce-78ab-4aad-ba40-1ebb6fd90c2d
+[plugins]
+  [[InactivityWatch]]
+    inactive_period = 10.0
+    watch_interval = 1000
+[profiles]
+  [[default]]
+    background_color = "#002b36"
+    background_darkness = 1.0
+    cursor_color = "#aaaaaa"
+    cursor_color_fg = False
+    foreground_color = "#839496"
+    scrollback_infinite = True
+    show_titlebar = False
+    use_system_font = False
+  [[airborne]]
+    background_color = "#002b36"
+    cursor_color = "#aaaaaa"
+    cursor_color_fg = False
+    custom_command = env startup_cmd="workon airborne" zsh
+    foreground_color = "#839496"
+    scrollback_infinite = True
+    show_titlebar = False
+    use_custom_command = True
+    use_system_font = False
+  [[bowman]]
+    background_color = "#002b36"
+    cursor_color = "#aaaaaa"
+    cursor_color_fg = False
+    custom_command = env startup_cmd="workon bowman" zsh
+    foreground_color = "#839496"
+    scrollback_infinite = True
+    show_titlebar = False
+    use_custom_command = True
+    use_system_font = False
+  [[cessna]]
+    background_color = "#002b36"
+    cursor_color = "#aaaaaa"
+    cursor_color_fg = False
+    custom_command = env startup_cmd="workon cessna" zsh
+    exit_action = hold
+    foreground_color = "#839496"
+    scrollback_infinite = True
+    show_titlebar = False
+    use_custom_command = True
+    use_system_font = False
