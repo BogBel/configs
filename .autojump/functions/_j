@@ -1,0 +1,7 @@
+#compdef j je jdd
+
+cur=${words[2, -1]}
+
+autojump --complete ${=cur[*]} | while read i; do
+    compadd -U "$i";
+done
