@@ -1,0 +1,67 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/projects/airborne" />
+        <option value="/tmp/new-commit" />
+        <option value="$USER_HOME$/Projects/airborne" />
+        <option value="$USER_HOME$/PycharmProjects/untitled" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/projects/airborne" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/projects/airborne" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Projects/airborne">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1496063352459" />
+              <option name="buildTimestamp" value="1494434098293" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1496061254272" />
+              <option name="buildTimestamp" value="1494434098293" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/airborne">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509442237160" />
+              <option name="buildTimestamp" value="1494434067583" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/tmp/new-commit">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1498744561601" />
+              <option name="buildTimestamp" value="1494434097484" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

@@ -1,0 +1,42 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
+    <recentFileMasks>
+      <mask>.*?test.?.py</mask>
+      <mask>.*?test..py</mask>
+      <mask>.*?test.py</mask>
+      <mask>.*test.py</mask>
+      <mask>.test.py</mask>
+      <mask>test*,.py</mask>
+      <mask>test*.py</mask>
+      <mask>test..py</mask>
+      <mask>test.*&gt;.py</mask>
+      <mask>test.*.py</mask>
+      <mask>test.*?.py</mask>
+      <mask>test\.*?.py</mask>
+      <mask>test\*?.py</mask>
+      <mask>test*?.py</mask>
+      <mask>test?.py</mask>
+      <mask>test.py</mask>
+      <mask>*.(</mask>
+      <mask>*.pnr</mask>
+      <mask>*.pn</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*</mask>
+      <mask>*p</mask>
+      <mask>*pnr</mask>
+      <mask>**</mask>
+      <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
+    </recentFileMasks>
+  </component>
+</application>

@@ -1,0 +1,32 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Pure Python" count="1" />
+      <entry feature="AbstractNewProjectStep.Web Starter Kit" count="1" />
+      <entry feature="CreateFile.CreateFileAction" count="4" />
+      <entry feature="StripeButton[Version_Control].shown" count="1" />
+      <entry feature="configure.code.style.on.selected.fragment" count="1" />
+      <entry feature="django.manage.py.not.in.project.root" count="1" />
+      <entry feature="execute.PythonConfigurationType.Run" count="16" />
+      <entry feature="ide.settings.Code_Style" count="2" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="12" />
+      <entry feature="ide.settings.File_Types" count="1" />
+      <entry feature="ide.settings.General" count="2" />
+      <entry feature="ide.settings.Keymap" count="35" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ide.settings.Project_Dependencies" count="20" />
+      <entry feature="ide.settings.Project_Interpreter" count="20" />
+      <entry feature="ide.settings.Project_Structure" count="1" />
+      <entry feature="ide.settings.Python" count="1" />
+      <entry feature="ide.settings.Python_Template_Languages" count="2" />
+      <entry feature="ide.settings.Smart_Keys" count="1" />
+      <entry feature="ideaapp.started" count="149" />
+      <entry feature="python.console.local" count="12" />
+      <entry feature="terminal.linux" count="16" />
+      <entry feature="tips.of.the.day.next" count="18" />
+      <entry feature="uml.ShowDiagram.AlchemyModelDependency.popup" count="1" />
+      <entry feature="uml.ShowDiagram.Python.popup" count="1" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>

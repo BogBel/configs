@@ -1,0 +1,1015 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.13 (/usr/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="/usr/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1247972723" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/.virtualenvs/airborne" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/airborne/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/site-packages/termcolor-1.1.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/site-packages/Shapely-1.6b4-py3.5-linux-x86_64.egg" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/site-packages/python_Levenshtein-0.12.0-py3.5-linux-x86_64.egg" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/site-packages/phonenumberslite-8.6.0-py3.5.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/site-packages/pandas_profiling-1.4.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/atlas" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/boeing" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/courtyard" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/fasttrace" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/hyatt" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/junkers" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/quicksilver" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/radisson" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/s4cmd" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/starwood" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/suds/build/lib" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/tune" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1330721234" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/PycharmProjects/rust_intro/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/PycharmProjects/rust_intro/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/rust_intro/.env/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/rust_intro/.env/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/rust_intro/.env/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/rust_intro/.env/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1565936884" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/rust_intro" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/PycharmProjects/rust_intro/.env (1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/PycharmProjects/rust_intro/.env/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/rust_intro/.env/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/rust_intro/.env/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/rust_intro/.env/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/rust_intro/.env/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1109007418" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.6 virtualenv at ~/PycharmProjects/d/dyploma/.env" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="$USER_HOME$/PycharmProjects/d/dyploma/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/d/dyploma/.env/lib/python2.7/site-packages/django_quiz_app-0.5.1-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/d/dyploma/.env/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/d/dyploma/.env/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/d/dyploma/.env/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/802501646" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/d/dyploma" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/.virtualenvs/telegram_location" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="$USER_HOME$/.virtualenvs/telegram_location/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/telegram_location/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/telegram_location/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/telegram_location/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/2125823270" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/.virtualenvs/fasttrace" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/fasttrace/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/src/courtyard" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/src/hyatt" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/src/quicksilver" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/src/radisson" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/src/tune" />
+            <root type="simple" url="file://$USER_HOME$/projects/fasttrace" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1680053759" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/.virtualenvs/courtyard-importer" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/courtyard-importer/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard-importer/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard-importer/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard-importer/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard-importer/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard-importer/src/atlas" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard-importer/src/boeing" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard-importer/src/cessna" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard-importer/src/fasttrace" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard-importer/src/fokker" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard-importer/src/geoindex" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard-importer/src/hyatt" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard-importer/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard-importer/src/quicksilver" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard-importer/src/radisson" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard-importer/src/suds/build/lib" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard-importer/src/tune" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1908044630" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/.virtualenvs/airborne (1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/airborne/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/site-packages/termcolor-1.1.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/site-packages/Shapely-1.6b4-py3.5-linux-x86_64.egg" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/site-packages/python_Levenshtein-0.12.0-py3.5-linux-x86_64.egg" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/site-packages/phonenumberslite-8.5.2-py3.5.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/site-packages/pandas_profiling-1.4.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/atlas" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/boeing" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/courtyard" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/fasttrace" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/hyatt" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/junkers" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/quicksilver" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/radisson" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/s4cmd" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/starwood" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/suds/build/lib" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/tune" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/lib/python3.5/site-packages/newrelic-2.76.0.55" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/598981516" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/.virtualenvs/courtyard" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/courtyard/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard/src/quicksilver" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard/src/radisson" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1300522679" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/.virtualenvs/telegram_foobot" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/telegram_foobot/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/telegram_foobot/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/telegram_foobot/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/telegram_foobot/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/telegram_foobot/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/12624369" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/.virtualenvs/datmusicbot" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/datmusicbot/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/datmusicbot/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/datmusicbot/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/datmusicbot/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/datmusicbot/local/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/datmusicbot/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1629613109" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/.virtualenvs/airborne" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/airborne/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/boeing" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/courtyard" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/fasttrace" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/hyatt" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/junkers" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/quicksilver" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/radisson" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/s4cmd" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/starwood" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/suds/build/lib" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/airborne/src/tune" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1330721233" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/.virtualenvs/atlas" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/atlas/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/src/starwood" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/lib/python3.5/site-packages/eventlet-0.21.0-py3.5.egg" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/src/boeing" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/src/fasttrace" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/src/hyatt" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/src/quicksilver" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/src/suds/build/lib" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/src/tune" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1116162307" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/.virtualenvs/bowman" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/bowman/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bowman/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bowman/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bowman/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bowman/src/boeing" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bowman/src/courtyard" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bowman/src/fasttrace" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bowman/src/hyatt" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bowman/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bowman/src/quicksilver" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bowman/src/radisson" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bowman/src/starwood" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bowman/src/suds/build/lib" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/bowman/src/tune" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-2109062387" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/.virtualenvs/cessna" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/cessna/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cessna/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cessna/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cessna/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cessna/lib/python3.6/site-packages/zeep-2.4.0-py3.6.egg" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/cessna/lib/python3.6/site-packages/xmltodict-0.11.0-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cessna/lib/python3.6/site-packages/lru_dict-1.1.6-py3.6-linux-x86_64.egg" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cessna/lib/python3.6/site-packages/jsonpath_rw-1.4.0-py3.6.egg" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/cessna/lib/python3.6/site-packages/dicttoxml-1.7.4-py3.6.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/cessna/lib/python3.6/site-packages/isodate-0.6.0-py3.6.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/cessna/lib/python3.6/site-packages/defusedxml-0.5.0-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cessna/lib/python3.6/site-packages/cached_property-1.3.1-py3.6.egg" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/cessna/lib/python3.6/site-packages/appdirs-1.4.3-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cessna/lib/python3.6/site-packages/ply-3.10-py3.6.egg" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cessna/src/boeing" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cessna/src/fasttrace" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cessna/src/hyatt" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cessna/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cessna/src/quicksilver" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/cessna/src/radisson" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/389796466" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/.virtualenvs/fokker" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/fokker/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fokker/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fokker/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fokker/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fokker/lib/python3.6/site-packages/zeep-2.4.0-py3.6.egg" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/fokker/lib/python3.6/site-packages/xmltodict-0.11.0-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fokker/lib/python3.6/site-packages/lru_dict-1.1.6-py3.6-linux-x86_64.egg" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fokker/lib/python3.6/site-packages/jsonpath_rw-1.4.0-py3.6.egg" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/fokker/lib/python3.6/site-packages/dicttoxml-1.7.4-py3.6.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/fokker/lib/python3.6/site-packages/isodate-0.6.0-py3.6.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/fokker/lib/python3.6/site-packages/defusedxml-0.5.0-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fokker/lib/python3.6/site-packages/cached_property-1.3.1-py3.6.egg" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/fokker/lib/python3.6/site-packages/appdirs-1.4.3-py3.6.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fokker/lib/python3.6/site-packages/ply-3.10-py3.6.egg" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fokker/src/boeing" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fokker/src/fasttrace" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fokker/src/hyatt" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fokker/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fokker/src/quicksilver" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fokker/src/radisson" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/912025491" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/.virtualenvs/hyatt" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/hyatt/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/src/courtyard" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/src/quicksilver" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/src/radisson" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/src/starwood" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/src/tune" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-732093022" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/.virtualenvs/radisson" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/radisson/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/radisson/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/radisson/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/radisson/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/radisson/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/radisson/lib/python3.5/site-packages/zeep-1.6.0-py3.5.egg" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/radisson/lib/python3.5/site-packages/xmltodict-0.11.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/radisson/lib/python3.5/site-packages/lru_dict-1.1.6-py3.5-linux-x86_64.egg" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/radisson/lib/python3.5/site-packages/jsonpath_rw-1.4.0-py3.5.egg" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/radisson/lib/python3.5/site-packages/dicttoxml-1.7.4-py3.5.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/radisson/lib/python3.5/site-packages/isodate-0.5.4-py3.5.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/radisson/lib/python3.5/site-packages/defusedxml-0.5.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/radisson/lib/python3.5/site-packages/cached_property-1.3.0-py3.5.egg" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/radisson/lib/python3.5/site-packages/appdirs-1.4.3-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/radisson/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/radisson/src/quicksilver" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/radisson/src/tune" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1663993233" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/.virtualenvs/courtyard" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="$USER_HOME$/.virtualenvs/courtyard/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard/src/quicksilver" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/courtyard/src/radisson" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1300522680" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/.virtualenvs/lincoln" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/lincoln/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/lincoln/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/lincoln/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/lincoln/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/lincoln/local/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/lincoln/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-469272143" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/.virtualenvs/quicksilver" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/quicksilver/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/XlsxWriter-0.9.8-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/xlrd-1.0.0-py3.5.egg" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/regex-2017.7.28-py3.5-linux-x86_64.egg" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/pyparsing-2.2.0-py3.5.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/Pillow-4.2.1-py3.5-linux-x86_64.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/msgpack_python-0.4.8-py3.5-linux-x86_64.egg" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/olefile-0.44-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/zeep-1.6.0-py3.5.egg" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/xmltodict-0.11.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/lru_dict-1.1.6-py3.5-linux-x86_64.egg" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/jsonpath_rw-1.4.0-py3.5.egg" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/docopt-0.6.2-py3.5.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/dicttoxml-1.7.4-py3.5.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/isodate-0.5.4-py3.5.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/defusedxml-0.5.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/cached_property-1.3.0-py3.5.egg" />
+            <root type="simple" url="jar://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/appdirs-1.4.3-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.5/site-packages/ply-3.10-py3.5.egg" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/src/radisson" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-921076948" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 virtualenv at ~/.virtualenvs/fasttrace (1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/fasttrace/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/src/courtyard" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/src/hyatt" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/src/quicksilver" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/src/radisson" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/fasttrace/src/tune" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1227684571" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/.virtualenvs/atlas" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="$USER_HOME$/.virtualenvs/atlas/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/src/boeing" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/src/fasttrace" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/src/hyatt" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/src/quicksilver" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/src/radisson" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/src/suds/build/lib" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/atlas/src/tune" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1116162306" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 virtualenv at ~/.virtualenvs/hyatt" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/hyatt/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/src/courtyard" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/src/quicksilver" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/src/radisson" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/src/starwood" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/hyatt/src/tune" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-732093021" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.3 virtualenv at ~/.virtualenvs/quicksilver" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/quicksilver/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/quicksilver/src/radisson" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-921076947" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.3 virtualenv at ~/.virtualenvs/radisson" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/.virtualenvs/radisson/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/radisson/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/radisson/lib/python3.6/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.6" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/radisson/lib/python3.6/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/radisson/src/mcdonnell" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/radisson/src/tune" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1663993232" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

@@ -1,0 +1,56 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.171" value="13" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="20" />
+    <property name="file.gist.reindex.count" value="289597" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.virtualenvs/radisson/bin/python3.6&#10;/home/bogdan/.virtualenvs/quicksilver/bin/python3.6&#10;/home/bogdan/Downloads/traces/09-002-HotelCreateReservation-response.xml&#10;/Downloads&#10;/home/bogdan/.virtualenvs/hyatt/bin/python3.6&#10;/home/bogdan/PycharmProjects/execjs&#10;/home/bogdan/PycharmProjects&#10;/home/bogdan/.virtualenvs/atlas/bin/python3.6&#10;/home/bogdan/projects/ikarus&#10;/usr/share/autojump/autojump.zsh&#10;/usr/share/autojump&#10;/home/bogdan/.virtualenvs/radisson/bin/python3.5&#10;/home/bogdan/.virtualenvs/quicksilver/bin/python3.5&#10;/home/bogdan/.virtualenvs/lincoln/bin/python3.5&#10;/home/bogdan/.virtualenvs/hyatt/bin/python3.5&#10;/home/bogdan/.virtualenvs/fasttrace/bin/python3.5&#10;/home/bogdan/.virtualenvs/courtyard/bin/python3.6&#10;/home/bogdan/.virtualenvs/fokker/bin/python3.6&#10;/home/bogdan/.virtualenvs/cessna/bin/python3.6&#10;/home/bogdan/.virtualenvs/bowman/bin/python3.6&#10;/home/bogdan/.virtualenvs/atlas/bin/python3.5&#10;/home/bogdan/.virtualenvs/airborne/bin/python3.6&#10;/home/bogdan/projects/packard&#10;/home/bogdan/PycharmProjects/d/dyploma&#10;/home/bogdan/.oh-my-zsh/custom/plugins/k&#10;/home/bogdan/projects/airborne&#10;/home/bogdan/.virtualenvs/airborne&#10;/home/bogdan/.virtualenvs/datmusicbot/bin/python3.5&#10;/home/bogdan/PycharmProjects/datmusicbot&#10;/home/bogdan/PycharmProjects/telegram_foobot" />
+    <property name="OpenOrAttachDialog.OpenMode" value="attach" />
+    <property name="KEYMAP" value="Size&#10;Hide acti&#10;Project&#10;Naviga&#10;bookma" />
+    <property name="PLUGIN_FILTER" value="DevKit&#10;Dev&#10;zsh&#10;jinja2&#10;jinja" />
+    <property name="PACKAGE_FILTER" value="" />
+    <property name="find.popup.splitter" value="0.32768363" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.62016577" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="selected.color.option.type" value="RECURSIVE_CALL_ATTRIBUTES" />
+    <property name="python.move.module.members.dialog.show.table" value="true" />
+    <property name="Copy.OpenInEditor" value="true" />
+  </component>
+</application>
